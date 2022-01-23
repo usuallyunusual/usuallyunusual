@@ -23,5 +23,5 @@ Reach out to me for anything computer-science relayted! I'm always up for a good
 If you think I'd do some good contribution to your project, let me know!
 If you're a recruiter, I'm definitely a good catch. No seriously. :P
 
-Find me on LinkedIn : https://www.linkedin.com/in/vignesh-vishwanath/
+Find me on LinkedIn : https://www.linkedin.com/in/vignesh-vishwanath/ <br>
 You could email me as well : vigneshvishwanath98@gmail.com
