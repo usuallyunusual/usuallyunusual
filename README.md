@@ -9,15 +9,15 @@ When I'm not burnt out, I'm reading about data engineering, backend engineering 
 Absolutely love solving problems.
 
 I'm currently working on the [The-Explorer](https://github.com/usuallyunusual/The-Explorer)
-This one is my brainchild. I always wanted to build a visual knowledge repository similar ot google maps, but with historical data from wikipedia.
+This one is my brainchild. I always wanted to build a visual knowledge repository similar to google maps, but with historical data from wikipedia.
 
 I'm also going through the [MIT distributed systems](https://www.youtube.com/watch?v=cQP8WApzIQQ) lectures. And doing the [lab](http://nil.csail.mit.edu/6.824/2020/labs/lab-mr.html)!
 This typically involves writing working code based on the MapReduce whitepaper. Sure it's not upto spec, but it's a good exercise to really get your hands dirty.
-To mix things up, I'm doing it in python. The original boilerplate was written in Rust, but I was a little rusty (yes, pun intended) on my python, so I thought I'll work in python.
+To mix things up, I'm doing it in python. The original boilerplate was written in Go, but I'll work in python.
 
 One of these day's I'm going to get around to doing two things,
 - Publish my blog, because I love writing and why not?
-- Setup a repository filled with articles, blogs, youtube videos that I used to get from where I was ( A college grad ) to ~wherever I am now~, so that other people can benefit from it. Sort of like a roadmap if you will.
+- Setup a repository filled with articles, blogs, youtube videos that I used to get from where I was ( A college grad ) to _fwherever I am now_, so that other people can benefit from it. Sort of like a roadmap if you will.
 
 Reach out to me for anything computer-science relayted! I'm always up for a good discussion.
 If you think I'd do some good contribution to your project, let me know!
