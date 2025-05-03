@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Usually Unusual</title>
+    <link>http://localhost:1313/usuallyunusual/categories/</link>
+    <description>Recent content in Categories on Usually Unusual</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/usuallyunusual/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
