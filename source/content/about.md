@@ -1,6 +1,7 @@
 ---
 title : About me
-date: 2025-05-03
+date: 2025-06-14
+weight: 50
 ---
 
 #### Career Trajectory: 

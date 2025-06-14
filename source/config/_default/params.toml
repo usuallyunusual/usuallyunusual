@@ -38,7 +38,7 @@ fingerprintAlgorithm = "sha256"
 
 [article]
   showDate = true
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   showBreadcrumbs = true
   showDraftLabel = true
@@ -56,7 +56,7 @@ fingerprintAlgorithm = "sha256"
   # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
 
 [list]
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
   showTableOfContents = false
   showTaxonomies = false

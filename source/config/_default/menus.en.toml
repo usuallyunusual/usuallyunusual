@@ -12,18 +12,23 @@
 
 [[main]]
   name = "Tech Blog"
-  pageRef = "posts"
-  weight = 10
+  pageRef = "tech-blog"
 
 [[main]]
   name = "Personal Blog"
-  pageRef = "posts"
-  weight = 11
+  pageRef = "personal-blog"
+
+[[main]]
+  name = "Book-shelf"
+  pageRef = "book-shelf"
+
+[[main]]
+  name = "Paper-shelf"
+  pageRef = "paper-shelf"
 
 [[main]]
   name = "About me"
   pageRef = "about"
-  weight = 30
 
 [[main]]
   identifier = "search"
@@ -33,7 +38,6 @@
 
 [[main]]
   identifier = "locale"
-  weight = 100
   [main.params]
     action = "locale"
 
