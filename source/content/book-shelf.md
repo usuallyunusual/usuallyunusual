@@ -1,6 +1,6 @@
 ---
 title : Book-shelf
-date : 2025-06-14
+date : 2026-02-06
 weight: 30
 ---
 
@@ -17,3 +17,6 @@ This does not include a lot of fiction that I love to read!
 - Deep Work by Cal Newport
 - So Good They Can't Ignore you by Cal Newport
 - Atomic Habits by James Clear
+
+### Other
+- Never Split the Difference by Chris Voss

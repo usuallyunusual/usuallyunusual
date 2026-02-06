@@ -15,8 +15,8 @@ title = "Usually Unusual"
 [params.author]
   name = "Vignesh Vishwanath"
   image = "author.jpg"
-  headline = "Data Engineer at Oracle"
-  bio = "Software engineer focussed on data-engineering, backend-engineering and distributed systems. Problem solver at heart"
+  headline = "AI and Data Engineer at Hy-Vee, Ex-Oracle"
+  bio = "Software engineer focussed on AI, distributed systems, data-engineering and backend-engineering. Problem solver at heart"
   links = [
      { email = "mailto:vigneshvishwanath98@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
