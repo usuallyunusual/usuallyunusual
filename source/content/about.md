@@ -9,12 +9,13 @@ weight: 50
 <summary> 
 <b>Software Engineer 2 @ Hy-Vee (Aug 2025 - Now)</b> </summary>
 
-- Closely worked on architecting the entire AI platform at Hy-Vee including indexing-workflows, reporting, observability and monitoring, MCP server architecture, Orchestrator agent, prompt management and versioning, infrastructure all on top of our existing data-platform architecture.
-- Reduced P99 latency by 60% across endpoints, increased throughput by 50% while reducing resource usage by 50% for one of our core MCP service.
-- Built the entire CI/CD pipeline for all components of our AI platform, on Concourse.
-- Built out all our infrastracture on terraform.
-- Architected and built our observability and monitoring for our platform which included designing metrics and pushing custom token-usage metrics to GCP from all our services, distributed tracing across our service-tiers and ingesting historical traces into BigQuery for high-cardinality metrics and long-term analysis.
-- AI platform is pushing boundaries on data-democratization and generating value from the existing data-warehouse.
+- Architected the end-to-end AI platform at Hy-Vee — spanning indexing workflows, reporting, observability, MCP server architecture, an Orchestrator agent, and prompt management — integrated on top of the existing data platform.
+- Designed and built the MCP server with 18+ tools, OAuth 2.0, RBAC, and decoupled prompt management with versioning; adopted by 100+ internal users across Claude, Cursor, VS Code, and a custom app.
+- Optimized a core MCP service achieving a 60% reduction in P99 latency, 50% increase in throughput, and 50% reduction in resource utilization.
+- Built the full CI/CD pipeline for all AI platform components on Concourse.
+- Provisioned and managed all platform infrastructure as code using Terraform.
+- Designed the observability and monitoring stack — including custom token-usage metrics pushed to GCP, distributed tracing across service tiers, and historical trace ingestion into BigQuery for high-cardinality and long-term analysis.
+- The AI platform is driving data democratization by unlocking value from the existing data warehouse for non-technical stakeholders across the organization.
 </details>
 <details>
 <summary><b>Software Engineer 2 @ Oracle (Mar 2024 - Aug 2025)</b></summary>
