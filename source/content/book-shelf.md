@@ -17,6 +17,7 @@ This does not include a lot of fiction that I love to read!
 - Deep Work by Cal Newport
 - So Good They Can't Ignore you by Cal Newport
 - Atomic Habits by James Clear
+- Debugging Teams by Brian Fitzpatrick and Ben Collins-Sussman
 
 ### Other
 - Never Split the Difference by Chris Voss
