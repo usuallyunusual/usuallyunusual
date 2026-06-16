@@ -6,7 +6,14 @@
     <description>Recent content in Tech Blog on Usually Unusual</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usuallyunusual.github.io/usuallyunusual/tech-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What needle are you trying to move?</title>
+      <link>https://usuallyunusual.github.io/usuallyunusual/tech-blog/what_needle_are_you_trying_to_move/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://usuallyunusual.github.io/usuallyunusual/tech-blog/what_needle_are_you_trying_to_move/</guid>
+      <description>The gap between good engineers and great ones isn&amp;rsquo;t technical skill. It&amp;rsquo;s knowing which needle to move and when.</description>
+    </item>
   </channel>
 </rss>
