@@ -2,7 +2,7 @@
 title : 1a - How a single node actually works?
 date : 2026-06-24
 summary : "How a single node DB works like from page structure, on-disk storage, indexing, WAL."
-tags : ["database", "data-engineering", "softwareengineering"]
+tags : ["database", "data-engineering", "software-engineering","database-internals"]
 math: true
 ---
 {{< katex >}}
