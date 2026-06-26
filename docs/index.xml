@@ -6,7 +6,7 @@
     <description>Recent content on Usually Unusual</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usuallyunusual.github.io/usuallyunusual/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book-shelf</title>
@@ -28,6 +28,27 @@
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://usuallyunusual.github.io/usuallyunusual/about/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>1c - How a single node actually works - ACID guarantees.</title>
+      <link>https://usuallyunusual.github.io/usuallyunusual/tech-blog/db-series-single-node-acid/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://usuallyunusual.github.io/usuallyunusual/tech-blog/db-series-single-node-acid/</guid>
+      <description>Covers ACID guratnees, MVCC, transactions and concurrency.</description>
+    </item>
+    <item>
+      <title>1a - How a single node actually works?</title>
+      <link>https://usuallyunusual.github.io/usuallyunusual/tech-blog/db-series-single-node-relational/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://usuallyunusual.github.io/usuallyunusual/tech-blog/db-series-single-node-relational/</guid>
+      <description>How a single node DB works like from page structure, on-disk storage, indexing, WAL.</description>
+    </item>
+    <item>
+      <title>1b - How a single node actually works - LSM tree based DB&#39;s.</title>
+      <link>https://usuallyunusual.github.io/usuallyunusual/tech-blog/db-series-single-node-lsm/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://usuallyunusual.github.io/usuallyunusual/tech-blog/db-series-single-node-lsm/</guid>
+      <description>How an LSM tree based single node DB works including compaction, MemTables, SSTables.</description>
     </item>
     <item>
       <title>What needle are you trying to move?</title>

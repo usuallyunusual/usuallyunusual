@@ -8,9 +8,8 @@
 colorScheme = "congo"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
-
 defaultThemeColor = "#FFFFFF"
-
+math = true
 enableSearch = false
 enableCodeCopy = false
 enableImageLazyLoading = true
