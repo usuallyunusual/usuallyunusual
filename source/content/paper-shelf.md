@@ -11,6 +11,7 @@ weight: 40
 - [Leslie Lamport, "Paxos Made Simple", 2001](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 - [Tushar D. Chandra, Robert Griesemer, and Joshua Redstone. "Paxos made live: an engineering perspective.", 2007](https://doi.org/10.1145/1281100.1281103)
 - [Diego Ongaro and John Ousterhout, "In Search of An Understandable Consensus Algorithm (Extended Version)", 2014](https://raft.github.io/raft.pdf)
+- [Fay Chang, Jeffrey Dean, et al., "Bigtable: A Distributed Storage System for Structured Data"](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 
 ## Computer Science 
 - [David Goldberg, "What Every Computer Scientist Should Know About Floating-Point Arithmetic

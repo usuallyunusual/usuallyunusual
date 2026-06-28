@@ -6,27 +6,34 @@
     <description>Recent content in Tags on Usually Unusual</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://usuallyunusual.github.io/usuallyunusual/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data-Engineering</title>
       <link>https://usuallyunusual.github.io/usuallyunusual/tags/data-engineering/</link>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://usuallyunusual.github.io/usuallyunusual/tags/data-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database-Internals</title>
+      <link>https://usuallyunusual.github.io/usuallyunusual/tags/database-internals/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://usuallyunusual.github.io/usuallyunusual/tags/database-internals/</guid>
       <description></description>
     </item>
     <item>
       <title>Databases</title>
       <link>https://usuallyunusual.github.io/usuallyunusual/tags/databases/</link>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://usuallyunusual.github.io/usuallyunusual/tags/databases/</guid>
       <description></description>
     </item>
     <item>
-      <title>Softwareengineering</title>
-      <link>https://usuallyunusual.github.io/usuallyunusual/tags/softwareengineering/</link>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://usuallyunusual.github.io/usuallyunusual/tags/softwareengineering/</guid>
+      <title>Software-Engineering</title>
+      <link>https://usuallyunusual.github.io/usuallyunusual/tags/software-engineering/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://usuallyunusual.github.io/usuallyunusual/tags/software-engineering/</guid>
       <description></description>
     </item>
     <item>
@@ -34,20 +41,6 @@
       <link>https://usuallyunusual.github.io/usuallyunusual/tags/database/</link>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://usuallyunusual.github.io/usuallyunusual/tags/database/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Database-Internals</title>
-      <link>https://usuallyunusual.github.io/usuallyunusual/tags/database-internals/</link>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://usuallyunusual.github.io/usuallyunusual/tags/database-internals/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software-Engineering</title>
-      <link>https://usuallyunusual.github.io/usuallyunusual/tags/software-engineering/</link>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://usuallyunusual.github.io/usuallyunusual/tags/software-engineering/</guid>
       <description></description>
     </item>
     <item>
@@ -62,6 +55,13 @@
       <link>https://usuallyunusual.github.io/usuallyunusual/tags/productivity/</link>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://usuallyunusual.github.io/usuallyunusual/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Softwareengineering</title>
+      <link>https://usuallyunusual.github.io/usuallyunusual/tags/softwareengineering/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://usuallyunusual.github.io/usuallyunusual/tags/softwareengineering/</guid>
       <description></description>
     </item>
     <item>
